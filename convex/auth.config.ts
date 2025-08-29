@@ -1,9 +1,8 @@
 export default {
   providers: [
     {
-
-      domain: "https://eager-antelope-58.clerk.accounts.dev",
+      domain: "https://fiery-warbler-790.clerk.accounts.dev", // dev domain
       applicationID: "convex",
     },
-  ]
+  ],
 };
